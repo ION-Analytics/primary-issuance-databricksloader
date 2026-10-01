@@ -42,6 +42,8 @@ $Env:MAX_PAGES="0"
 
 Set temporary AWS credentials: https://d-936704671c.awsapps.com/start/#/?tab=accounts
 
+Account : MMGPRD
+
 ```powershell
 $Env:AWS_ACCESS_KEY_ID="<access-key>"
 $Env:AWS_SECRET_ACCESS_KEY="<secret-key>"
