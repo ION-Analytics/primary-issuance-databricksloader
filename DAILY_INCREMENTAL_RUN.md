@@ -259,7 +259,7 @@ URL : https://adb-1883700548140357.17.azuredatabricks.net/editor/notebooks/41289
 Run entire file in one Databricks SQL session:
 
 ```text
-03_parsed_incremental_merge.sql
+05_parsed_incremental_merge.sql
 ```
 
 This script:
@@ -452,7 +452,7 @@ python primary_issuance_ingest_v5.py incremental
 ## Databricks SQL
 
 ```text
-03_parsed_incremental_merge.sql
+05_parsed_incremental_merge.sql
 06_operational_search_projection.sql
 07_validation.sql
 ```
